@@ -7,7 +7,7 @@ A fully implemented Convolutional Autoencoder in Numpy
 - matplotlib
 - pytorch
 
-Convolutional Autoencoder fully implemented in numpy and optimized to run fastr on cpu using numba.jit . The Autoencoder is implemented same as the one in pytorch so one can use the model 
+Convolutional Autoencoder fully implemented in numpy and optimized to run faster on cpu using numba.jit . The Autoencoder is implemented same as the one in pytorch so one can use the model 
 as one likes . The number of layers can be adjusted along with channels,kernels,stride etc same as pytorch/tensorflow giving leverage to adjust the model according to needs.
 
 # Results of Image Denoising using Autoencoder
