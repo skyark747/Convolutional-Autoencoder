@@ -13,4 +13,4 @@ as one likes . The number of layers can be adjusted along with channels,kernels,
 # Results of Image Denoising using Autoencoder
 ![WhatsApp Image 2025-07-12 at 02 24 53_7e5bbf49](https://github.com/user-attachments/assets/a5042ecb-a9eb-48a5-916e-5244fa4fc60a)
 
-(![WhatsApp Image 2025-07-12 at 02 29 17_55eec568](https://github.com/user-attachments/assets/d84f1aca-5824-4753-a0ce-3d135149386e)
+![WhatsApp Image 2025-07-12 at 02 29 17_55eec568](https://github.com/user-attachments/assets/d84f1aca-5824-4753-a0ce-3d135149386e)
