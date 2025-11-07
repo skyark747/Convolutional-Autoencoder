@@ -1,5 +1,5 @@
 # Convolutional-Autoencoder
-Convolutional Autoencoder  implemented in numpy and optimized to run faster on cpu using numba.jit. The Autoencoder folows modular design i.e adjust params and layers according to need.
+Convolutional Autoencoder  implemented in numpy and optimized to run faster on cpu using numba.jit. The Autoencoder follows modular design i.e adjust params and layers according to need.
 
 ## dependencies
 Anaconda/Miniconda
